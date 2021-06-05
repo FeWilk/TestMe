@@ -1,0 +1,16 @@
+append
+protected
+String
+int
+protected
+flush
+void
+AKIA0WQ6E7KNRS97EIAY
+protected
+amzn.mws.c58afb1d-2cc3-4140-f66e-335a19d55326
+generate
+double
+#
+return
+Integer
+double
