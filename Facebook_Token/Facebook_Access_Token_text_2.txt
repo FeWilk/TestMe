@@ -1,0 +1,12 @@
+def
+True
+append
+EAACEdEose0cBA4
+connection
+connect
+connection
+#
+connection
+append
+double
+main()
