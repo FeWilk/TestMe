@@ -1,7 +1,9 @@
-private
+protected
+print
+SK7EDEF0C8c9D511aDf2F3fa627Ef0f80c
+MKyKzGC9rSifDVSp2kPFuJUrmC49DNh1
 function
-int
-117319-MAHrS9aBqOp8Uux4u8zREByuDvtTigz1dw37NV3q
 double
-PJU533ylbdGIoy5FirNB2j6lKEtUQ7E46kQVDojRdyu8M
-double
+True
+print
+Integer
